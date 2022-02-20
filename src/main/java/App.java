@@ -12,5 +12,9 @@ public class App {
 
 		System.out.println("Hello World");
 	}
+	
+	public void removeData(String data) {
+		System.out.println("data removed ="+data);
+	}
 
 }
